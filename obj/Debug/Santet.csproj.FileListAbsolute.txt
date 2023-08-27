@@ -1,0 +1,9 @@
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\bin\Debug\Santet.exe.config
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\bin\Debug\Santet.exe
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\bin\Debug\Santet.pdb
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\obj\Debug\Santet.csprojAssemblyReference.cache
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\obj\Debug\Santet.Form1.resources
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\obj\Debug\Santet.Properties.Resources.resources
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\obj\Debug\Santet.csproj.GenerateResource.cache
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\obj\Debug\Santet.exe
+D:\KULIAH\semstr3\pemrograman lanjut\praktikum\Santet\obj\Debug\Santet.pdb
